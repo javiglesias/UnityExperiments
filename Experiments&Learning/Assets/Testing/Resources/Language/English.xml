@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content language="ENGLISH">
+
+	<string key="FILELANGUAGE">English</string>
+
+  <string key="TUTORIAL">TUTORIAL</string>
+  <string key="STORY">STORY</string>
+  <string key="INFINITE">INFINITE</string>
+
+  <string key="METERS">METERS</string>
+  <string key="DEATHS">DEATHS</string>
+  <string key="TIME">TIME</string>
+
+  <string key="PAUSE">Pause</string>
+  <string key="RESUME">Resume</string>
+  <string key="RESTART">Restart</string>
+
+  <string key="SKIP">PRESS SPACE OR LEFT CLICK TO SKIP</string>
+
+  <string key="DIALOG"></string>
+  <string key="DIALOG1">IT'S GETTING WORSE BY THE DAY...</string>
+  <string key="DIALOG2">YOU HAVE TO GO GET THE BOOK!</string>
+  <string key="DIALOG3">SON...</string>
+  <string key="DIALOG4">IT IS SAID TO BE CURSED.</string>
+  <string key="DIALOG5">IT'S OUR ONLY OPTION!</string>
+  <string key="DIALOG6">ARE YOU GOING TO LET HER DIE?</string>
+  <string key="DIALOG7">...</string>
+  <string key="DIALOG8">WE DON'T KNOW IF IT EXISTS...</string>
+  <string key="DIALOG9">PLEASE...</string>
+  <string key="DIALOG10">I PROMISE YOU I'LL COME BACK.</string>
+  <string key="DIALOG11">TAKE CARE OF YOUR MOTHER.</string>
+
+  <string key="DIALOG12">THE BOOK, YOU WERE RIGHT...</string>
+  <string key="DIALOG13">WE DID WHAT WE COULD.</string>
+  <string key="DIALOG14">...</string>
+
+  <string key="TWITTER">@DCARCOV</string>
+  
+  <string key="GO">GO!</string>
+
+  <string key="TWITTERSHARE">I just got ## points in BASE!</string>
+  <string key="TWITTERSHARETOPTEN">I just got ## points in BASE to enter the Top 10!</string>
+	
+  <string key="HOWTOPLAY">How to play</string>
+  
+	<string key="NEWRECORD">NEW RECORD</string>
+  <string key="ENTERYOURNAME">ENTER YOUR NAME:</string>
+			
+</content>

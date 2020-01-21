@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content language="GERMAN">
+
+  <string key="FILELANGUAGE">Deutsch</string>
+
+  <string key="TUTORIAL">ANLEITUNG</string>
+  <string key="STORY">GESCHICHTE</string>
+  <string key="INFINITE">UNENDLICH</string>
+
+  <string key="METERS">METER</string>
+  <string key="DEATHS">TODESFALLE</string>
+  <string key="TIME">LANGE</string>
+
+  <string key="PAUSE">Pause</string>
+  <string key="RESUME">Fortsetzen</string>
+  <string key="RESTART">Neu starten</string>
+
+  <string key="SKIP">PRESS SPACE OR LEFT CLICK TO SKIP</string>
+
+  <string key="DIALOG"></string>
+  <string key="DIALOG1">IT'S GETTING WORSE BY THE DAY...</string>
+  <string key="DIALOG2">YOU HAVE TO GO GET THE BOOK!</string>
+  <string key="DIALOG3">SON...</string>
+  <string key="DIALOG4">IT IS SAID TO BE CURSED.</string>
+  <string key="DIALOG5">IT'S OUR ONLY OPTION!</string>
+  <string key="DIALOG6">ARE YOU GOING TO LET HER DIE?</string>
+  <string key="DIALOG7">...</string>
+  <string key="DIALOG8">WE DON'T KNOW IF IT EXISTS...</string>
+  <string key="DIALOG9">PLEASE...</string>
+  <string key="DIALOG10">I PROMISE YOU I'LL COME BACK.</string>
+  <string key="DIALOG11">TAKE CARE OF YOUR MOTHER.</string>
+
+  <string key="DIALOG12">THE BOOK, YOU WERE RIGHT...</string>
+  <string key="DIALOG13">WE DID WHAT WE COULD.</string>
+  <string key="DIALOG14">...</string>
+
+  <string key="TWITTER">@DCARCOV</string>
+  
+  <string key="GO">GEHEN!</string>
+
+  <string key="TWITTERSHARE">Ich habe gerade ## Punkte in BASE!</string>
+  <string key="TWITTERSHARETOPTEN">Ich habe gerade ## Punkte in BASE, um in die Top 10 zu kommen!</string>
+
+  <string key="HOWTOPLAY">Wie man spielt</string>
+  
+  <string key="NEWRECORD">NEUER REKORD</string>
+  <string key="ENTERYOURNAME">GIB DEINEN NAMEN EIN:</string>
+  
+</content>
