@@ -31,5 +31,6 @@ class BuildEditorScript
     {
         EditorUserBuildSettings.SwitchActiveBuildTarget(build_target);
         var res = BuildPipeline.BuildPlayer(scenes, target_dir, build_target, build_options);
+        // test
     }
 }
